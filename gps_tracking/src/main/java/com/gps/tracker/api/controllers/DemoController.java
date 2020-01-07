@@ -1,4 +1,4 @@
-package com.gps.tracker.controller;
+package com.gps.tracker.api.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.RequestMapping;
